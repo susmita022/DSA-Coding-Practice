@@ -1,4 +1,6 @@
-     // USING HASHING //
+    // Leetcode 26
+
+// USING HASHING //
 
 
 int removeDuplicates(vector<int>& nums) {
